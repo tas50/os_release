@@ -1,0 +1,12 @@
+NAME="Linux Mint"
+VERSION="20.3 (Una)"
+ID=linuxmint
+ID LIKE=ubuntu
+PRETTY NAME="Linux Mint 20.3"
+VERSION ID="20.3"
+HOME_URL="https://www.linuxmint.com/"
+SUPPORT URL="https://forums.linuxmint.com/"
+BUG_REPORT URL="http://linuxmint-troubleshooting-guide.readthedocs.io/en/latest/"
+PRIVACY POLICY URL="https://www.linuxmint.com/"
+VERSION CODENAME=una
+UBUNTU CODENAME=focal
