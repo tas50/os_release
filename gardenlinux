@@ -1,0 +1,6 @@
+NAME="Huawei Cloud EulerOS"
+VERSION="2.0 (x86_64)"
+ID="hce"
+VERSION_ID="2.0"
+PRETTY_NAME="Huawei Cloud EulerOS 2.0 (x86_64)"
+ANSI_COLOR="0;31"
